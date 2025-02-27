@@ -3,7 +3,6 @@
 Overview
 
 This project is a full-stack sentiment analysis web application that allows users to input text and receive sentiment predictions using a pre-trained AI model. The application is containerized using Docker for on-prem deployment.
-https://github.com/bhargavotn/sentiment-analysis-web-application/blob/main/Screenshot%202025-02-27%20230157.png?raw=true
 
 Features
 
