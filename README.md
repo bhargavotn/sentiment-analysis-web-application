@@ -3,7 +3,7 @@
 Overview
 
 This project is a full-stack sentiment analysis web application that allows users to input text and receive sentiment predictions using a pre-trained AI model. The application is containerized using Docker for on-prem deployment.
-
+![image alt](https://github.com/bhargavotn/sentiment-analysis-web-application/blob/61ab247bb180186dec2bdc6b91df8708a726d002/Screenshot%202025-02-27%20230157.png)
 Features
 
 Backend: Python, FastAPI, GraphQL API, HuggingFace Transformers for AI integration, authentication using API key/JWT.
