@@ -45,6 +45,7 @@ Once the containers are running:
 Web Interface & API: Open http://localhost:80 in your browser.
 
 GraphQL Playground: Visit http://localhost:80/graphql for API testing.
+   ![image alt](https://github.com/bhargavotn/sentiment-analysis-web-application/blob/ae720a2029834a710314d7193bb4f9d2c8a5f557/Screenshot%202025-02-27%20230440.png)
 
 Project Structure
 
