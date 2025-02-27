@@ -24,8 +24,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/your-repository/sentiment-analysis-webapp.git
-cd sentiment-analysis-webapp
+git clone https://github.com/bhargavotn/sentiment-analysis-web-application/
 
 2. Run the Application
 
