@@ -75,7 +75,7 @@ Authentication
 The API uses an API key or JWT-based authentication. Include your API key in requests:
 
 {
-  "Authorization": "Bearer YOUR_API_KEY"
+  "Authorization": "newsecretkey123"
 }
 
 GraphQL Query Example
